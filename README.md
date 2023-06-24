@@ -6,6 +6,7 @@ For me, there are two things to learn from this project.
 
 one is to learn how to make box shadow.
 two is how to structure a form.
+Three is like hover or active some tags to change its style.
 
 Thanks for checking out this front-end coding challenge.
 
