@@ -110,6 +110,7 @@ input::placeholder {
 
 form p {
   font-size: 12px;
+  color: lightgray;
 }
 
 .highlight {
